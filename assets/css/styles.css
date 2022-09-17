@@ -1354,3 +1354,13 @@ cursor:pointer;
   background-color: RoyalBlue;
   
 }
+.tech-stack{
+  margin-top: 10px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+  padding: 10px;
+  width: 97%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  /* justify-items: center;
+  align-items: center; */
+}
