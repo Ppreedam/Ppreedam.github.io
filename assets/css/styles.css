@@ -1621,3 +1621,23 @@ footer p strong {
   width: 50%;
   
 }
+.git_streak{
+  margin-left: 70px;
+}
+@media screen and (max-width: 1080px)  {
+  .git_calender{
+    margin: auto;
+    width: 100%;
+    
+  }
+  .git_streak{
+    margin-left: 100px;
+  }
+}
+.navbar_display{
+  display: flex;
+  gap: 50px;
+}
+.navbar_display>li>a>h3:hover{
+  color: #77bef8;
+}
